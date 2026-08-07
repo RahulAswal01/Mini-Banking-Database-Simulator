@@ -1,4 +1,4 @@
-# Entities
+# Entity
 
 - Customers
 - Employees
