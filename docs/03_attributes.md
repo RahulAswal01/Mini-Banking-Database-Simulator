@@ -9,10 +9,10 @@
 - Email
 - Address
 
-## Employees
+## Staff
 
-- EmployeeId
-- EmployeeName
+- StaffId
+- StaffName
 - DOB
 - PhoneNo
 - Email
@@ -22,7 +22,7 @@
 
 - AccountId
 - AccountType
-- TotalAmount
+- Balance
 - OpenedAt
 - CurrentStatus
 
@@ -31,8 +31,8 @@
 - TransactionId
 - TransactionType
 - Amount
-- FromAccountId
-- ToAccountId
+- FromAccountId -- sender
+- ToAccountId -- reciver
 - ProcessByStaff
 - ExcuatedAt
 - Status
